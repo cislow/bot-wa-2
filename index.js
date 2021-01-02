@@ -12,7 +12,7 @@ const    A187    =    'CS BOT' ; // INFO JANGAN UBAH-UBAH !!!
 const  instagram  =  'https://instagram.com/nur.fdhl_' ; // INFO JANGAN UBAH-UBAH !!!
 const nomer = 'wa.me/6282334459451'; // JANGAN UBAH-UBAH INFO!!!
 const aktif = 'Tergantung Owner'; // JANGAN UBAH-UBAH INFO!!!
-const groupwhatsapp = 'https://bit.ly/Usernekopoi // JANGAN UBAH-UBAH INFO!!!
+const  groupwhatsapp  =  'https://bit.ly/Usernekopoi' : // INFO JANGAN UBAH-UBAH !!!
 const youtube = 'https://bit.ly/3aNfHH5'; // JANGAN UBAH-UBAH INFO!!!
 //A187ID
 const qrcode = require("qrcode-terminal");
